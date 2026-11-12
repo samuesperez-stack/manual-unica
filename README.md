@@ -11,25 +11,35 @@ Este repositorio contiene el **Manual de Marca Oficial** y el documento doctrina
 
 ```text
 manual-unica/
-├── README.md                          # Este archivo: visión general y guía de navegación
+├── README.md                          # Visión general y guía de navegación
+├── MANUAL_UNICA_COMPENDIO_TOTAL.md    # Compendio Maestro Integral Todo-en-Uno (Branding, Contenido y Motion)
 ├── LOS_CUATRO_PILARES.md              # Documento doctrinario y operativo oficial (Pilares I al IV)
-├── MANUAL_DE_MARCA.md                 # Documento maestro del manual de identidad visual y comunicación
+├── MANUAL_DE_MARCA.md                 # Manual Maestro de Identidad Visual v2.0 (Sistema Tripartito & WCAG)
 ├── docs/                              # Desglose temático y guías modulares
 │   ├── 01_identidad_y_proposito.md    # Misión, visión, fundamentos y manifiesto
 │   ├── 02_simbologia_y_logotipo.md    # Isotipo, logotipo, áreas de reserva y usos
-│   ├── 03_paleta_y_tipografia.md      # Códigos de color (Azul Royal, Verde Lima, Blanco) y fuentes
-│   ├── 04_guia_redes_sociales.md      # Directrices de contenido (Qué pasa, Por qué pasa, Cómo se resuelve)
-│   ├── 05_material_calle_y_eventos.md # Material para activismo, giras y presencia territorial
+│   ├── 03_paleta_y_tipografia.md      # Códigos de color y fuentes
+│   ├── 04_guia_redes_sociales.md      # Directrices de contenido (Qué pasa -> Por qué -> Solución)
+│   ├── 05_material_calle_y_eventos.md # Material para activismo territorial y mítines
 │   ├── 06_investigacion_partidos_y_3_propuestas_identidad.md # Benchmarking internacional y 3 propuestas
-│   ├── 07_pilar_de_contenido_venezuela_real.md               # Estrategia de contenidos sin lugares comunes
-│   └── 08_motion_graphics_remotion_y_motionmaxxing.md        # Estándares de video y animación profesional
-├── remotion/                          # Plantillas de código React/TypeScript para video automatizado
+│   ├── 07_pilar_de_contenido_venezuela_real.md               # 5 ejes temáticos sin lugares comunes
+│   ├── 08_motion_graphics_remotion_y_motionmaxxing.md        # Estándares técnicos de animación
+│   └── parrilla_10_guiones_produccion.md                     # 10 guiones completos (5 carruseles + 5 reels)
+├── remotion/                          # Suite de Motion Graphics en React/TypeScript
 │   ├── package.json
 │   └── src/
-│       ├── Root.tsx                   # Registro de composiciones 9:16 y 16:9
-│       └── FormulaPilarIV.tsx         # Plantilla automatizada (Qué pasa -> Por qué -> Solución)
+│       ├── Root.tsx                   # Registro de las 3 composiciones maestras (9:16 vertical)
+│       ├── FormulaPilarIV.tsx         # Template 01: Tríada de denuncia y solución (45s)
+│       ├── BrechaCambiariaChart.tsx   # Template 02: Gráfico animado de brecha cambiaria con contadores (15s)
+│       ├── CitaInstitucional.tsx      # Template 03: Tarjeta de cita y posicionamiento doctrinario (10s)
+│       └── theme/
+│           ├── colors.ts              # Tokens de color institucionales
+│           └── typography.ts          # Tokens de tipografía oficial
 └── assets/                            # Repositorio de recursos gráficos descargables
-    ├── logos/                         # Versiones SVG, PNG (alta resolución) y logotipo oficial
+    ├── logos/                         # Logotipo oficial, versiones transparentes e invertidas
+    ├── arte_editable_sublimacion/     # Artes SVG/EPS para franelas de campaña (frente, espalda, mangas)
+    ├── arco_carabobo/                 # Trazados vectoriales y líneas del Arco de Carabobo
+    ├── mockups/                       # Mockups de producto y aplicaciones en indumentaria
     ├── fonts/                         # Enlaces y licencias tipográficas oficiales
     └── templates/                     # Plantillas base para piezas de diseño
 ```
@@ -38,11 +48,12 @@ manual-unica/
 
 ## 🚀 Acceso Rápido a los Documentos Clave
 
+- 🌟 **[Compendio Maestro Todo-en-Uno](MANUAL_UNICA_COMPENDIO_TOTAL.md)**: El documento unificado con todo el sistema de branding, contenido, guiones técnicos y código Remotion.
 - 📜 **[Los Cuatro Pilares del Partido](LOS_CUATRO_PILARES.md)**: Fundamentación ideológica, autonomía de bases, metas de calidad y comunicación didáctica.
-- 🎨 **[Benchmarking y 3 Propuestas de Identidad](docs/06_investigacion_partidos_y_3_propuestas_identidad.md)**: Estudio de partidos modernos (*Volt, Forward, Renaissance, Movimiento Ciudadano*) y 3 propuestas de evolución del logo oficial.
-- 🇻🇪 **[Pilar de Contenido: Venezuela Real](docs/07_pilar_de_contenido_venezuela_real.md)**: 5 ejes temáticos sin lugares comunes (brecha cambiaria, transformadores eléctricos, pozos de agua, asfixia tributaria local y formación técnica).
-- 🎬 **[Motion Graphics con Remotion & Motionmaxxing](docs/08_motion_graphics_remotion_y_motionmaxxing.md)**: Referencias visuales (*Vox, Bloomberg, Apple*) y código React para videos de campaña de alta retención.
-- 📖 **[Manual de Marca Maestro](MANUAL_DE_MARCA.md)**: El sistema visual, normas cromáticas, tipografías y arquitectura gráfica.
+- 📖 **[Manual de Marca v2.0](MANUAL_DE_MARCA.md)**: Identidad tripartita, accesibilidad WCAG 2.1, sistema tipográfico y pautas de campo.
+- 📋 **[Parrilla de 10 Guiones Técnicos](docs/parrilla_10_guiones_produccion.md)**: 5 carruseles 4:5 y 5 reels 9:16 con segundo a segundo de locución, pantalla y llamados a la acción.
+- 🎬 **[Suite de Motion Graphics en Remotion](remotion/src/)**: Componentes React de alta retención (*Fórmula Pilar IV*, *Gráfico de Brecha Cambiaria* y *Cita Institucional*).
+- 👕 **[Recursos de Campaña y Sublimación](assets/)**: Diseños vectoriales abiertos para confección textil y artes de calle.
 
 ---
 

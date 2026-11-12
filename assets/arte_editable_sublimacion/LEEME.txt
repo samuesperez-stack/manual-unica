@@ -1,0 +1,21 @@
+UNIÓN Y CAMBIO — PAQUETE EDITABLE PARA SUBLIMACIÓN
+Talla de referencia: L
+Medidas de trabajo provisionales: frente/espalda 400 x 550 mm; mangas 260 x 220 mm.
+No son estándares universales: la imprenta debe ajustar al molde real de su proveedor.
+
+ARCHIVOS:
+- SVG: maestro editable por grupos/capas (abrir preferiblemente en Inkscape o Illustrator).
+- EPS: exportación vectorial para flujo de imprenta.
+- PNG preview: vista rápida de cada panel.
+
+CAPAS:
+Frente: fondo blanco; halftone azul superior; halftone verde inferior; halftone azul inferior; franjas laterales; logo.
+Espalda: fondo blanco; halftone azul superior; halftone verde inferior; halftone azul inferior; logo; eslogan; subrayado; arco.
+Mangas: fondo blanco y halftones azul/verde separados.
+
+NOTAS:
+- El logo se ha colocado desde el PNG transparente proporcionado, no se ha redibujado. Para vectorizarlo de verdad, hace falta el SVG/AI oficial.
+- El Arco se trazó como vector a partir de la ilustración visible en el mockup de referencia que compartió el usuario. La capa es editable y conserva su silueta y ornamentación visible; no es un plano arquitectónico oficial.
+- Opacidad máxima de los halftones y del Arco: 57%.
+
+ARCHIVO NUEVO: 05_arco_carabobo_trazado_referencia.svg / EPS / PNG — trazado vectorial independiente del arco del mockup.
