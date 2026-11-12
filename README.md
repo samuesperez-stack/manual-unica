@@ -19,9 +19,17 @@ manual-unica/
 │   ├── 02_simbologia_y_logotipo.md    # Isotipo, logotipo, áreas de reserva y usos
 │   ├── 03_paleta_y_tipografia.md      # Códigos de color (Azul Royal, Verde Lima, Blanco) y fuentes
 │   ├── 04_guia_redes_sociales.md      # Directrices de contenido (Qué pasa, Por qué pasa, Cómo se resuelve)
-│   └── 05_material_calle_y_eventos.md # Material para activismo, giras y presencia territorial
+│   ├── 05_material_calle_y_eventos.md # Material para activismo, giras y presencia territorial
+│   ├── 06_investigacion_partidos_y_3_propuestas_identidad.md # Benchmarking internacional y 3 propuestas
+│   ├── 07_pilar_de_contenido_venezuela_real.md               # Estrategia de contenidos sin lugares comunes
+│   └── 08_motion_graphics_remotion_y_motionmaxxing.md        # Estándares de video y animación profesional
+├── remotion/                          # Plantillas de código React/TypeScript para video automatizado
+│   ├── package.json
+│   └── src/
+│       ├── Root.tsx                   # Registro de composiciones 9:16 y 16:9
+│       └── FormulaPilarIV.tsx         # Plantilla automatizada (Qué pasa -> Por qué -> Solución)
 └── assets/                            # Repositorio de recursos gráficos descargables
-    ├── logos/                         # Versiones SVG, PNG (alta resolución) y vectores
+    ├── logos/                         # Versiones SVG, PNG (alta resolución) y logotipo oficial
     ├── fonts/                         # Enlaces y licencias tipográficas oficiales
     └── templates/                     # Plantillas base para piezas de diseño
 ```
@@ -30,15 +38,11 @@ manual-unica/
 
 ## 🚀 Acceso Rápido a los Documentos Clave
 
-- 📜 **[Los Cuatro Pilares del Partido](LOS_CUATRO_PILARES.md)**:
-  - **Pilar I:** Fundamentación ideológica (Centro político, Economía social de mercado, Subsidiariedad, Estabilizar primero, Instituciones fuertes, los 30 temas de país).
-  - **Pilar II:** Autonomía de las bases (Unidad en el qué, libertad en el cómo; candidaturas desde abajo; planes en cascada con IA).
-  - **Pilar III:** Metas y medición (Más calidad y menos cantidad; verificar, no contar; *"Preferimos diez vecinos que vuelven a cien que vinieron por una foto"*).
-  - **Pilar IV:** Comunicación institucional (Informar más y declarar menos; menos caras, más mensajes; fórmula *Qué pasa / Por qué pasa / Cómo se resuelve*).
-- 📖 **[Manual de Marca Integral](MANUAL_DE_MARCA.md)**: El sistema visual, normas cromáticas, tipografías y arquitectura gráfica.
-- 🎨 **[Paleta de Colores y Tipografías](docs/03_paleta_y_tipografia.md)**: Valores técnicos HEX, RGB, CMYK y Pantone.
-- 📱 **[Estrategia de Redes Sociales](docs/04_guia_redes_sociales.md)**: Pautas didácticas de comunicación institucional.
-- 📢 **[Material de Calle y Eventos](docs/05_material_calle_y_eventos.md)**: Franelas, gorras, pancartas y tarimas.
+- 📜 **[Los Cuatro Pilares del Partido](LOS_CUATRO_PILARES.md)**: Fundamentación ideológica, autonomía de bases, metas de calidad y comunicación didáctica.
+- 🎨 **[Benchmarking y 3 Propuestas de Identidad](docs/06_investigacion_partidos_y_3_propuestas_identidad.md)**: Estudio de partidos modernos (*Volt, Forward, Renaissance, Movimiento Ciudadano*) y 3 propuestas de evolución del logo oficial.
+- 🇻🇪 **[Pilar de Contenido: Venezuela Real](docs/07_pilar_de_contenido_venezuela_real.md)**: 5 ejes temáticos sin lugares comunes (brecha cambiaria, transformadores eléctricos, pozos de agua, asfixia tributaria local y formación técnica).
+- 🎬 **[Motion Graphics con Remotion & Motionmaxxing](docs/08_motion_graphics_remotion_y_motionmaxxing.md)**: Referencias visuales (*Vox, Bloomberg, Apple*) y código React para videos de campaña de alta retención.
+- 📖 **[Manual de Marca Maestro](MANUAL_DE_MARCA.md)**: El sistema visual, normas cromáticas, tipografías y arquitectura gráfica.
 
 ---
 
