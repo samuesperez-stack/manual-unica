@@ -7,12 +7,12 @@
 
 | Denominación | Muestra | HEX | RGB | CMYK | Pantone |
 | :--- | :---: | :--- | :--- | :--- | :--- |
-| **Azul Institucional** | 🟦 | `#0F4C81` | `15, 76, 129` | `100, 70, 20, 10` | 2154 C |
-| **Amarillo Esperanza** | 🟨 | `#FFB800` | `255, 184, 0` | `0, 30, 100, 0` | 123 C |
-| **Naranja Transformación** | 🟧 | `#FF6B35` | `255, 107, 53` | `0, 72, 85, 0` | 1655 C |
+| **Azul Royal Institucional** | 🟦 | `#0038A8` | `0, 56, 168` | `100, 75, 0, 5` | Reflex Blue C |
+| **Verde Lima / Citrón** | 🟩 | `#C6D822` | `198, 216, 34` | `25, 0, 95, 0` | 389 C |
+| **Lima Claro (Destaque)** | 🟨 | `#F4F8D3` | `244, 248, 211` | `5, 0, 20, 0` | Pastel Citron |
 | **Blanco Puro** | ⬜ | `#FFFFFF` | `255, 255, 255` | `0, 0, 0, 0` | Opaque White |
-| **Gris Oscuro Titular** | ⬛ | `#1E293B` | `30, 41, 59` | `75, 65, 50, 60` | 432 C |
-| **Gris Fondo Suave** | ◽ | `#F1F5F9` | `241, 245, 249` | `5, 3, 2, 0` | Cool Gray 1 C |
+| **Gris Pizarra Oscuro** | ⬛ | `#1E293B` | `30, 41, 59` | `75, 65, 50, 60` | 432 C |
+| **Naranja Transformación (Acento)** | 🟧 | `#FF6B35` | `255, 107, 53` | `0, 72, 85, 0` | 1655 C |
 
 ---
 

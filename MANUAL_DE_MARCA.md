@@ -21,35 +21,35 @@
 
 ---
 
-## 1. Introducción y Manifiesto Político
+## 1. Introducción y Marco Político-Doctrinario
 
-### 1.1. Propósito
-**Unión y Cambio (ÚNICA)** nace como una respuesta ciudadana, democrática e integradora frente a la fragmentación política en Venezuela. Su misión es convocar a todos los sectores de la vida nacional —trabajadores, jóvenes, emprendedores, familias y comunidades— bajo un objetivo compartido: la recuperación institucional, el rescate productivo y la convivencia pacífica.
+### 1.1. Propósito y Origen
+**Unión y Cambio** nace como una alternativa política de **centro democrático** en Venezuela, concebida para romper con la improvisación, la polarización estéril y el personalismo que desgastaron a los partidos tradicionales. Su propósito es ofrecer una plataforma coherente con vocación de gobierno, capaz de estabilizar la economía, recuperar los servicios públicos y reconstruir las instituciones de la nación.
 
-### 1.2. El Manifiesto
-> *"Venezuela no se reconstruye desde el odio ni desde la resignación; se construye con la unión de quienes no se rinden y con la valentía de quienes exigen un cambio real.  
-> Somos el puente entre lo que fuimos y el país de oportunidades que estamos decididos a fundar.  
-> Ni división estéril ni inacción: **Unión para avanzar, Cambio para transformar**."*
+Este manual de marca no es un mero ejercicio estético: responde al mandato explícito del **Pilar IV (Comunicación Institucional, Sección 5)**:
+> *"Este modelo exige capacidad de producción: un equipo profesional de diseño y contenido y un manual de marca con plantillas que llegue a todos los estados y se actualice periódicamente. Así cada base, con la autonomía del Pilar II, puede producir su propio contenido local con la misma calidad y la misma identidad visual del partido."*
 
-### 1.3. Valores Centrales
-- **Unidad Constructiva:** Priorizar el bien común sobre las diferencias coyunturales.
-- **Esperanza Activa:** La certeza de que el porvenir se forja con trabajo organizado y propuestas técnicas viables.
-- **Transparencia y Ética:** Honestidad en la palabra y rigor en la gestión pública.
-- **Vocación Democrática:** Defensa irrenunciable del voto, los derechos civiles y las libertades económicas.
-- **Cercanía Territorial:** La política no se hace desde escritorios; se construye recorriendo los pueblos, caseríos, barriadas y ciudades de Venezuela.
+### 1.2. Principio Rector: "Unidad en el qué, libertad en el cómo"
+- **Lo Nacional Decide el QUÉ:** Las líneas ideológicas y la posición sobre los 30 temas centrales del país son de obligatorio cumplimiento.
+- **Las Bases Deciden el CÓMO:** Cada uno de los 335 municipios adapta el mensaje a su realidad comunitaria usando las plantillas y el lenguaje gráfico estandarizado en este manual.
 
 ---
 
-## 2. Arquitectura y Naming de la Marca
+## 2. Arquitectura de Marca y Filosofía Comunicacional
 
-### 2.1. Nombre Principal
-- **Denominación Oficial:** Unión y Cambio
-- **Acrónimo / Versión Corta:** **ÚNICA** (Unión y Cambio)
+### 2.1. Denominación Oficial
+- **Nombre:** **UNIÓN Y CAMBIO**
+- **Tratamiento Tipográfico del Logotipo:** "UNIÓN" en caja alta bold, con la conjunción "Y" superpuesta o centrada, sobre la palabra "CAMBIO".
+- **Identificador Corto / Movimiento:** ÚNICA
 
-### 2.2. Eslóganes Institucionales y de Campaña
-- **Lema Principal:** *"El poder de unirnos, la fuerza del cambio."*
-- **Lema de Activismo Territorial:** *"Caminemos juntos por el cambio."*
-- **Lema para Redes Sociales:** *#UniónYCambio | #LaFuerzaÚNICA*
+### 2.2. Máximas de Comunicación Política (Pilar IV)
+1. **Informar más y declarar menos:** Sustituir la retórica vacía por infografías, cifras contrastadas y explicaciones didácticas.
+2. **Menos caras, más mensaje:** Romper con el personalismo de la vieja política; la institución habla antes que las individualidades. Esto además descongestiona la fatiga del ciudadano y protege la seguridad de la militancia en el terreno venezolano.
+3. **Toda denuncia trae una solución:** La estructura obligatoria de toda pieza de denuncia ciudadana es la tríada:
+   - **¿Qué pasa?** (El problema que vive la comunidad).
+   - **¿Por qué pasa?** (Explicación didáctica de causas y responsables).
+   - **¿Cómo se resuelve?** (La propuesta técnica y viable del partido en menos de 1 minuto).
+4. **Más calidad y menos cantidad (Pilar III):** Preferimos piezas bien elaboradas que generen convicción antes que publicaciones masivas vacías. *"Preferimos diez vecinos que vuelven a cien que vinieron por una foto."*
 
 ---
 
@@ -86,38 +86,32 @@ Para conservar la legibilidad de la marca y de los trazos del isotipo:
 
 ## 5. Paleta Cromática Oficial
 
-La paleta cromática de **Unión y Cambio** rompe con la polarización cromática clásica, rescatando los valores de la luz nacional con un enfoque fresco, contemporáneo y accesible.
+La identidad cromática de **Unión y Cambio** rompe deliberadamente con los colores tradicionales desgastados por la confrontación bipartidista clásica en Venezuela. Emplea un binomio de alto contraste y frescura moderna: **Azul Royal Institucional** y **Verde Lima / Citrón**.
 
 ### 5.1. Colores Primarios
 
-#### 🔵 Azul Institucional (Confianza y Democracia)
-Evoca estabilidad, Estado de derecho, paz social, serenidad y transparencia.
-- **HEX:** `#0F4C81`
-- **RGB:** `15, 76, 129`
-- **CMYK:** `100, 70, 20, 10`
-- **Pantone:** Classic Blue 19-4052 TCX / 2154 C
+#### 🔵 Azul Royal Institucional (Solidez, Democracia y Estado de Derecho)
+Representa la institucionalidad, la serenidad republicana, el centro político y el rigor de la gestión pública.
+- **HEX:** `#0038A8`
+- **RGB:** `0, 56, 168`
+- **CMYK:** `100, 75, 0, 5`
+- **Pantone:** Reflex Blue C / 286 C
 
-#### 🟡 Amarillo Esperanza (Energía y Futuro Venezolano)
-Representa la luz, la riqueza humana del país, la calidez caribeña y el despertar productivo.
-- **HEX:** `#FFB800`
-- **RGB:** `255, 184, 0`
-- **CMYK:** `0, 30, 100, 0`
-- **Pantone:** 123 C
+#### 🟢 Verde Lima / Citrón (Energía, Renovación y Futuro)
+Color distintivo del partido. Representa el despertar productivo, la modernización, la esperanza activa y la juventud.
+- **HEX:** `#C6D822` (Variante de soporte: `#D2DB0E`)
+- **RGB:** `198, 216, 34`
+- **CMYK:** `25, 0, 95, 0`
+- **Pantone:** 389 C / 390 C
 
-#### 🟠 Naranja Transformación (Dinamismo y Juventud)
-Conecta la unión institucional con la acción ciudadana activa, la innovación y el trabajo de calle.
-- **HEX:** `#FF6B35`
-- **RGB:** `255, 107, 53`
-- **CMYK:** `0, 72, 85, 0`
-- **Pantone:** 1655 C
+### 5.2. Colores de Contraste y Lectura
 
-### 5.2. Colores Neutros y de Soporte
-
-| Color | HEX | RGB | CMYK | Uso Principal |
-| :--- | :--- | :--- | :--- | :--- |
-| **Blanco Nieve** | `#FFFFFF` | `255, 255, 255` | `0, 0, 0, 0` | Fondos de claridad, contraste, franelas oficiales. |
-| **Gris Asfalto / Texto** | `#1E293B` | `30, 41, 59` | `75, 65, 50, 60` | Textos de alta legibilidad en pantallas y documentos. |
-| **Gris Claro Neutro** | `#F1F5F9` | `241, 245, 249` | `5, 3, 2, 0` | Cajas de citas, fondos de contraste secundario en web. |
+| Color | Denominación | HEX | RGB | CMYK | Uso Principal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ⬜ | **Blanco Puro** | `#FFFFFF` | `255, 255, 255` | `0, 0, 0, 0` | Fondos de documentos, franelas oficiales, alto contraste. |
+| ⬛ | **Gris Pizarra Oscuro** | `#1E293B` | `30, 41, 59` | `75, 65, 50, 60` | Tipografía de lectura corrida en pantallas y folletos. |
+| ◽ | **Lima Suave (Pastel)** | `#F4F8D3` | `244, 248, 211` | `5, 0, 20, 0` | Cajas de citas, destaques y tablas comparativas. |
+| 🟧 | **Naranja Acento** | `#FF6B35` | `255, 107, 53` | `0, 72, 85, 0` | Botones de llamado a la acción (CTA) y alertas en infografías. |
 
 ---
 

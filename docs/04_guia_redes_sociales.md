@@ -1,28 +1,34 @@
-# Módulo 04: Guía de Estilo para Redes Sociales y Contenido Digital
+# Módulo 04: Guía de Comunicación Digital y Redes Sociales
 ## Unión y Cambio (ÚNICA) — Venezuela
+*Basado en el Pilar IV: Comunicación Institucional*
 
 ---
 
-## 1. Directrices Generales de Publicación
-1. **Primeros 3 Segundos en Video:** Todo Reel, TikTok o Short debe plantear una pregunta o afirmación contundente vinculada a la realidad ciudadana (servicios, economía, juventud, propuestas).
-2. **Ubicación del Logotipo:** Siempre en la esquina superior izquierda o inferior derecha, manteniendo el área de protección y evitando que los botones de la interfaz de la aplicación lo tapen.
-3. **Subtítulos Obligatorios:** El 70% de la audiencia en Venezuela consume video en móviles sin audio. Todo video debe incluir subtítulos automáticos editados con texto legible (amarillo o blanco sobre fondo de contraste).
+## 1. Principio Fundamental: "Informar más y declarar menos"
+El objetivo comunicacional es sustituir la verborrea y el personalismo por piezas didácticas, amenas y de rápido consumo visual.
 
-## 2. Tipos de Piezas Oficiales
+### Por qué "Menos Caras":
+1. **El mensaje pesa más que el mensajero:** Prioriza la institución sobre el caudillismo político.
+2. **Los voceros no se desgastan:** Quien habla de todo pierde peso cuando ocurre un hito relevante.
+3. **Menos fatiga ciudadana:** La gente busca respuestas y propuestas prácticas, no sermones partidistas.
+4. **Seguridad y protección:** Resguarda a la dirigencia de base en los municipios del país.
 
-### A. Comunicado / Posicionamiento Oficial
-- **Fondo:** Blanco o Azul Institucional sólido.
-- **Cabecera:** Logotipo de Unión y Cambio + Número de comunicado o fecha.
-- **Firma:** Comisión Operativa Nacional o vocero correspondiente.
-- **Canales:** X (Twitter), canales de WhatsApp, Telegram, Prensa web.
+---
 
-### B. Carrousel de Propuestas ("El Plan ÚNICO")
-- **Formato:** Instagram / LinkedIn (1080 x 1350 px, vertical 4:5).
-- **Estructura:**
-  - Slide 1 (Gancho): El problema concreto que sufren los venezolanos.
-  - Slides 2 a 4: La propuesta técnica y cómo se financiará/ejecutará.
-  - Slide Final (CTA): "Comparte si crees que Venezuela merece este cambio. Síguenos en @UnionYCambioVe".
+## 2. La Fórmula Obligatoria: "Toda denuncia trae una solución"
+Cualquier publicación que exponga una falla o reclamo social debe articularse estrictamente en 3 pasos:
 
-### C. Cobertura de Calle en Tiempo Real
-- **Formato:** Historias / Estados de WhatsApp.
-- **Filtros:** Ningún filtro de color que distorsione los tonos de la piel o de la ropa partidista. Colores naturales y directos.
+```text
+[ 1. QUÉ PASA ]         ›        [ 2. POR QUÉ PASA ]       ›      [ 3. CÓMO SE RESUELVE ]
+El problema real en               Explicación pedagógica           La propuesta técnica
+la comunidad (ej. luz,            con datos y quién es             del partido en un reel
+agua, vialidad, salud).           el responsable.                  o lámina (< 1 minuto).
+```
+
+---
+
+## 3. Los Tres Tipos de Contenido Autorizados
+
+1. **Denunciamos y proponemos:** Problemas de la gente, siempre acompañados de una salida viable conforme a los 30 temas de país.
+2. **Lo que logramos:** Resultados comprobables del trabajo de las bases (medidos por hechos y no por fotos de asistencia infladas del Pilar III).
+3. **Lo que planteamos:** Planes de gobierno y líneas programáticas explicadas en infografías sencillas para que cualquiera las entienda.
