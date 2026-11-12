@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <rect x="56" y="56" width="1100" height="300" fill="#111827"/>
+  <rect x="50" y="50" width="1100" height="300" fill="#FFFFFF" stroke="#111827" stroke-width="6"/>
+  <rect x="50" y="50" width="700" height="180" fill="#111827"/>
+  <text x="90" y="170" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-size="96" fill="#FFFFFF" letter-spacing="-2">UNIÓN Y CAMBIO</text>
+  <rect x="790" y="80" width="320" height="120" fill="#FFFFFF" stroke="#111827" stroke-width="5"/>
+  <text x="950" y="165" font-family="'Montserrat', sans-serif" font-weight="900" font-size="76" fill="#111827" text-anchor="middle">ÚNICA</text>
+  <rect x="50" y="230" width="1100" height="120" fill="#FFFFFF" stroke="#111827" stroke-width="4"/>
+  <text x="90" y="305" font-family="'Inter', sans-serif" font-weight="800" font-size="36" fill="#111827" letter-spacing="4">PROPUESTA · DIDÁCTICA · ACCIÓN POLÍTICA</text>
+</svg>

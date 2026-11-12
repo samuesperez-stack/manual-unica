@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <g fill="#FFFFFF">
+    <circle cx="210" cy="200" r="140" fill="#FFFFFF"/>
+    <circle cx="210" cy="200" r="90" fill="#000000"/>
+    <text x="420" y="230" font-family="'Montserrat', sans-serif" font-weight="900" font-size="160" letter-spacing="-4">ÚNICA</text>
+    <text x="430" y="310" font-family="'Montserrat', sans-serif" font-weight="700" font-size="44" letter-spacing="10">UNIÓN Y CAMBIO</text>
+  </g>
+</svg>

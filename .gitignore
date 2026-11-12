@@ -10,6 +10,15 @@ desktop.ini
 *.swp
 *.bak
 
+# Node & Remotion build outputs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.remotion/
+out/
+dist/
+
 # Exportaciones muy pesadas no vectoriales (usar releases o Google Drive para videos crudos)
 *.mp4
 *.mov

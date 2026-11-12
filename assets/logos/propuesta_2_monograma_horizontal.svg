@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <!-- Isotipo U+C a la izquierda -->
+  <g transform="translate(60, 50)">
+    <circle cx="150" cy="150" r="140" fill="#0030C2"/>
+    <!-- Trazo C envolvente -->
+    <path d="M 220 90 A 90 90 0 1 0 220 210" fill="none" stroke="#D4E11E" stroke-width="42" stroke-linecap="round"/>
+    <!-- Flecha 45° Coral -->
+    <polygon points="210,60 270,60 270,120 240,90 190,140 160,110 210,60" fill="#FF5A36"/>
+  </g>
+  <!-- Naming ÚNICA + Sublínea -->
+  <g transform="translate(420, 0)">
+    <text x="0" y="230" font-family="'Montserrat', sans-serif" font-weight="900" font-size="160" fill="#0030C2" letter-spacing="-4">ÚNICA</text>
+    <text x="10" y="310" font-family="'Montserrat', sans-serif" font-weight="700" font-size="44" fill="#111827" letter-spacing="10">UNIÓN Y CAMBIO</text>
+  </g>
+</svg>
