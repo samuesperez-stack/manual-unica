@@ -16,6 +16,7 @@ manual-unica/
 ├── LOS_CUATRO_PILARES.md              # Documento doctrinario y operativo oficial (Pilares I al IV)
 ├── MANUAL_DE_MARCA.md                 # Manual Maestro de Identidad Visual v2.0 (Sistema Tripartito & WCAG)
 ├── docs/                              # Desglose temático y guías modulares
+│   ├── INVESTIGACION_BENCHMARKING_INTERNACIONAL.md # Estudio exhaustivo de partidos globales y manuales
 │   ├── 01_identidad_y_proposito.md    # Misión, visión, fundamentos y manifiesto
 │   ├── 02_simbologia_y_logotipo.md    # Isotipo, logotipo, áreas de reserva y usos
 │   ├── 03_paleta_y_tipografia.md      # Códigos de color y fuentes
@@ -48,6 +49,7 @@ manual-unica/
 
 ## 🚀 Acceso Rápido a los Documentos Clave
 
+- 🌍 **[Investigación y Benchmarking Internacional](docs/INVESTIGACION_BENCHMARKING_INTERNACIONAL.md)**: Estudio comparado de manuales de marca y sistemas visuales de partidos contemporáneos (*Volt Europa, Forward Party, Renaissance, Movimiento Ciudadano, Pentagram / Demócratas y Sumar*).
 - 🌟 **[Compendio Maestro Todo-en-Uno](MANUAL_UNICA_COMPENDIO_TOTAL.md)**: El documento unificado con todo el sistema de branding, contenido, guiones técnicos y código Remotion.
 - 📜 **[Los Cuatro Pilares del Partido](LOS_CUATRO_PILARES.md)**: Fundamentación ideológica, autonomía de bases, metas de calidad y comunicación didáctica.
 - 📖 **[Manual de Marca v2.0](MANUAL_DE_MARCA.md)**: Identidad tripartita, accesibilidad WCAG 2.1, sistema tipográfico y pautas de campo.
