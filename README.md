@@ -25,6 +25,7 @@ manual-unica/
 │   ├── 06_investigacion_partidos_y_3_propuestas_identidad.md # Benchmarking internacional y 3 propuestas
 │   ├── 07_pilar_de_contenido_venezuela_real.md               # 5 ejes temáticos sin lugares comunes
 │   ├── 08_motion_graphics_remotion_y_motionmaxxing.md        # Estándares técnicos de animación
+│   ├── guion_video_que_es_union_y_cambio.md                  # Guion de voz en off (45s) para video explicativo
 │   └── parrilla_10_guiones_produccion.md                     # 10 guiones completos (5 carruseles + 5 reels)
 ├── remotion/                          # Suite de Motion Graphics en React/TypeScript
 │   ├── package.json
@@ -54,6 +55,7 @@ manual-unica/
 - 📜 **[Los Cuatro Pilares del Partido](LOS_CUATRO_PILARES.md)**: Fundamentación ideológica, autonomía de bases, metas de calidad y comunicación didáctica.
 - 📖 **[Manual de Marca v2.0](MANUAL_DE_MARCA.md)**: Identidad tripartita, accesibilidad WCAG 2.1, sistema tipográfico y pautas de campo.
 - 📋 **[Parrilla de 10 Guiones Técnicos](docs/parrilla_10_guiones_produccion.md)**: 5 carruseles 4:5 y 5 reels 9:16 con segundo a segundo de locución, pantalla y llamados a la acción.
+- 🎙️ **[Guion Explicativo "¿Qué es Unión y Cambio?"](docs/guion_video_que_es_union_y_cambio.md)**: Guion de 45s para voz en off (ElevenLabs) con mención de liderazgos nacionales (Capriles, Guanipa, Medina, Belisario).
 - 🎬 **[Suite de Motion Graphics en Remotion](remotion/src/)**: Componentes React de alta retención (*Fórmula Pilar IV*, *Gráfico de Brecha Cambiaria* y *Cita Institucional*).
 - 👕 **[Recursos de Campaña y Sublimación](assets/)**: Diseños vectoriales abiertos para confección textil y artes de calle.
 
