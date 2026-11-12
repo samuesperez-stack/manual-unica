@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de diseño
+*.tmp
+*.temp
+~$*
+*.swp
+*.bak
+
+# Exportaciones muy pesadas no vectoriales (usar releases o Google Drive para videos crudos)
+*.mp4
+*.mov
+*.avi
+*.raw
